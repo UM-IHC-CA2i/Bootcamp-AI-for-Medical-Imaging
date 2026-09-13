@@ -1,61 +1,29 @@
-# 🧠 AI for Medical Imaging Bootcamp
+# AI-Ready Research Starter
 
-Welcome to the **AI for Medical Imaging Bootcamp**, a self-paced introduction to building intelligent systems that analyze, interpret, and learn from medical images.  
-This bootcamp combines foundational AI concepts with hands-on modules that guide you from data preprocessing to segmentation, biomarker discovery, and report generation.
+Starter notebook and data for **Research Module 1** of the AI-Ready Radiology Curriculum.
 
----
+## What's in this repo
 
-## 🎯 Purpose
+| File | Description |
+|------|-------------|
+| `Research_1_AI_Data_Exploration.ipynb` | Jupyter notebook with guided data analysis exercises |
+| `radiology_ai_findings.csv` | Dataset of 60 radiology studies with AI predictions and radiologist ground truth |
 
-The goal of this bootcamp is to help you:
-- Understand the **core principles** of AI in medical imaging.  
-- Learn how to design and implement **end-to-end imaging workflows**.  
-- Gain hands-on experience with **open-source tools** such as PyRadiomics, MERLIN, nnU-Net, and TotalSegmentator.  
-- Build confidence to contribute to research in the **BioIntelligence Lab** or launch your own imaging AI projects.
+## Getting started
 
----
+1. **Fork** this repository (click the "Fork" button in the top right)
+2. Open the notebook in Google Colab:
+   - Go to [colab.research.google.com](https://colab.research.google.com)
+   - Click **File > Open notebook > GitHub**
+   - Paste your forked repo URL
+   - Select `Research_1_AI_Data_Exploration.ipynb`
+3. Follow the instructions in the notebook
+4. When finished, save your work back to GitHub:
+   - **File > Save a copy in GitHub**
+   - Select your fork and commit
 
-## 🧩 Bootcamp Overview
+## Dataset description
 
-| Phase | Focus | Modules | Description |
-|--------|--------|----------|-------------|
-| 🐍 **Module 0 (Optional)** | Python Foundations | — | For beginners: complete the [Kaggle Python Course](https://www.kaggle.com/learn/python). |
-| ⚙️ **Core Bootcamp** | Fundamentals of AI for Medical Imaging | 1 – 4 | Learn data science, image processing, ML, DL, and segmentation. |
-| 🧬 **Application Bootcamp** | Imaging Biomarkers & Beyond | 5 | Apply AI techniques to real-world medical imaging workflows. |
+`radiology_ai_findings.csv` contains 60 anonymized radiology studies across 4 imaging modalities (CR, CT, MR, US) and 7 body regions. Each study records whether an AI tool flagged a finding, the AI's confidence score, and whether a radiologist confirmed the finding.
 
----
-
-## ⚙️ Core Bootcamp (Modules 1 – 4)
-
-These modules build your foundation in medical imaging AI — from basic data science to segmentation model training.  
-Each module can be opened directly in **Google Colab** — just click and start learning.
-
-| Module | Description | Link |
-|---------|-------------|------|
-| **1. Data Science Foundations** | Learn Python, NumPy, and Pandas for data wrangling, visualization, and exploratory analysis. | [Open in Colab →](https://colab.research.google.com/drive/1jT6mgw9YXBsiFm8DFaMlLBOjsjLDcO6x?usp=sharing) |
-| **2. Image Processing** | Explore image filtering, enhancement, and region-based operations using OpenCV and SimpleITK. | [Open in Colab →](https://colab.research.google.com/drive/1varOzvr-lLOH4RNiUOLMokz6UloxYeTg?usp=sharing) |
-| **3. Machine Learning** | Build and evaluate classical ML models using scikit-learn on imaging datasets. | [Open in Colab →](https://colab.research.google.com/drive/1b2MGhZwX88_o4qjpz8n-CvsdtUylR4gh) |
-| **4. Introduction to Deep Learning** | Understand CNN architectures and how deep networks process images using Keras and fast.ai. | [Open in Colab →](https://colab.research.google.com/drive/1UO3zoO3Lf86XEpX-tYAa2Il20-kDcLMN) |
-
----
-
-## 🩻 Application Bootcamp (Modules 5)
-
-This module aims to connect foundational knowledge to a **real-world application**.
-
-| Module | Learning Goal | Link |
-|---------|----------------|------|
-| **5. Imaging Biomarkers — From Data to Prediction** | Build a complete imaging biomarker pipeline: cohort discovery → data download → segmentation → feature extraction → predictive modeling. | [Open in Colab →](https://colab.research.google.com/drive/1wo64ulfbvDNMWHfgWSfeXGy0ZKh3eowy) |
-
-
-
----
-
-## 📫 Contact
-
-**BioIntelligence Lab — UTHealth Houston**  
-👨‍🏫 *Dr. Vishwa S. Parekh*  
-📧 [vishwa.s.parekh@uth.tmc.edu](mailto:vishwa.s.parekh@uth.tmc.edu)  
-🌐 [BioIntelligence-Lab GitHub](https://github.com/BioIntelligence-Lab)
-
-
+This data is synthetic and designed for educational purposes.

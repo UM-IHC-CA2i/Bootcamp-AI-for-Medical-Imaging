@@ -1,0 +1,61 @@
+study_id,modality,body_region,finding,ai_flagged,ai_confidence,radiologist_confirmed
+RAD001,CR,Chest,Pulmonary Nodule,True,0.94,True
+RAD002,CR,Chest,Cardiomegaly,True,0.88,True
+RAD003,CR,Chest,Normal,False,0.08,False
+RAD004,CR,Chest,Pleural Effusion,True,0.91,True
+RAD005,CR,Chest,Pneumothorax,True,0.96,True
+RAD006,CR,Chest,Normal,False,0.12,False
+RAD007,CR,Chest,Pulmonary Nodule,True,0.73,False
+RAD008,CR,Chest,Rib Fracture,False,0.22,True
+RAD009,CR,Chest,Normal,True,0.61,False
+RAD010,CR,Chest,Pleural Effusion,True,0.85,True
+RAD011,CR,Chest,Pulmonary Nodule,True,0.89,True
+RAD012,CR,Chest,Cardiomegaly,True,0.79,True
+RAD013,CR,Chest,Normal,False,0.05,False
+RAD014,CR,Chest,Pneumothorax,True,0.93,True
+RAD015,CR,Chest,Atelectasis,True,0.71,True
+RAD016,CR,Chest,Normal,False,0.14,False
+RAD017,CR,Chest,Pulmonary Nodule,False,0.31,True
+RAD018,CR,Chest,Pleural Effusion,True,0.82,True
+RAD019,CR,Chest,Normal,True,0.58,False
+RAD020,CR,Chest,Rib Fracture,True,0.67,True
+RAD021,CT,Abdomen,Liver Lesion,True,0.86,True
+RAD022,CT,Abdomen,Renal Cyst,True,0.78,True
+RAD023,CT,Abdomen,Normal,False,0.11,False
+RAD024,CT,Abdomen,Appendicitis,True,0.91,True
+RAD025,CT,Abdomen,Liver Lesion,True,0.64,False
+RAD026,CT,Abdomen,Normal,False,0.09,False
+RAD027,CT,Abdomen,Kidney Stone,True,0.88,True
+RAD028,CT,Abdomen,Normal,True,0.52,False
+RAD029,CT,Abdomen,Liver Lesion,True,0.83,True
+RAD030,CT,Abdomen,Appendicitis,False,0.28,True
+RAD031,CT,Head,Hemorrhage,True,0.95,True
+RAD032,CT,Head,Midline Shift,True,0.89,True
+RAD033,CT,Head,Normal,False,0.07,False
+RAD034,CT,Head,Hemorrhage,True,0.92,True
+RAD035,CT,Head,Normal,False,0.13,False
+RAD036,CT,Head,Fracture,True,0.74,True
+RAD037,CT,Head,Normal,True,0.55,False
+RAD038,CT,Head,Hemorrhage,False,0.33,True
+RAD039,MR,MSK,Meniscal Tear,True,0.72,True
+RAD040,MR,MSK,ACL Tear,True,0.68,True
+RAD041,MR,MSK,Normal,False,0.18,False
+RAD042,MR,MSK,Meniscal Tear,True,0.59,False
+RAD043,MR,MSK,Bone Marrow Edema,False,0.24,True
+RAD044,MR,MSK,Normal,True,0.48,False
+RAD045,MR,MSK,Rotator Cuff Tear,False,0.35,True
+RAD046,MR,MSK,ACL Tear,True,0.63,True
+RAD047,MR,Brain,Mass,True,0.87,True
+RAD048,MR,Brain,White Matter Lesion,True,0.61,False
+RAD049,MR,Brain,Normal,False,0.15,False
+RAD050,MR,Brain,Mass,True,0.84,True
+RAD051,US,Breast,Mass,True,0.76,True
+RAD052,US,Breast,Cyst,True,0.82,True
+RAD053,US,Breast,Normal,True,0.57,False
+RAD054,US,Breast,Mass,True,0.69,False
+RAD055,US,Breast,Normal,False,0.11,False
+RAD056,US,Thyroid,Nodule,True,0.73,True
+RAD057,US,Thyroid,Normal,False,0.16,False
+RAD058,US,Thyroid,Nodule,True,0.65,False
+RAD059,US,Thyroid,Nodule,False,0.29,True
+RAD060,US,Abdomen,Gallstones,True,0.81,True
