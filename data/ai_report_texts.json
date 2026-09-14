@@ -1,0 +1,62 @@
+[
+  {
+    "study_id": "RAD001",
+    "ai_report_text": "Possible pulmonary nodule identified in the right upper lobe. Recommend follow-up CT for further evaluation."
+  },
+  {
+    "study_id": "RAD004",
+    "ai_report_text": "Small left-sided pleural effusion detected. Clinical correlation recommended."
+  },
+  {
+    "study_id": "RAD005",
+    "ai_report_text": "Small left pneumothorax identified. Urgent clinical correlation recommended."
+  },
+  {
+    "study_id": "RAD011",
+    "ai_report_text": "Pulmonary nodule measuring approximately 8mm in the left lower lobe. Follow-up imaging recommended per Fleischner criteria."
+  },
+  {
+    "study_id": "RAD021",
+    "ai_report_text": "Hypodense lesion in hepatic segment VI measuring 2.3 cm. Differential includes hemangioma and metastasis. MRI with contrast recommended."
+  },
+  {
+    "study_id": "RAD024",
+    "ai_report_text": "Dilated appendix with periappendiceal fat stranding. Findings consistent with acute appendicitis."
+  },
+  {
+    "study_id": "RAD031",
+    "ai_report_text": "Hyperdense focus in the right basal ganglia consistent with acute hemorrhage. Urgent neurosurgical consultation recommended."
+  },
+  {
+    "study_id": "RAD034",
+    "ai_report_text": "Large acute intraparenchymal hemorrhage in the left temporal lobe with surrounding edema and mild midline shift."
+  },
+  {
+    "study_id": "RAD039",
+    "ai_report_text": "Complex tear of the medial meniscus posterior horn extending to the articular surface. Associated joint effusion."
+  },
+  {
+    "study_id": "RAD047",
+    "ai_report_text": "Enhancing mass in the right frontal lobe measuring 3.1 x 2.8 cm with surrounding vasogenic edema. Recommend neurosurgical consultation."
+  },
+  {
+    "study_id": "RAD051",
+    "ai_report_text": "Irregular hypoechoic mass at 2 o'clock position, 4 cm from the nipple. BI-RADS 4. Tissue sampling recommended."
+  },
+  {
+    "study_id": "RAD056",
+    "ai_report_text": "Solid hypoechoic thyroid nodule in the right lobe measuring 1.4 cm with irregular margins and microcalcifications. ACR TI-RADS 4. FNA recommended."
+  },
+  {
+    "study_id": "RAD060",
+    "ai_report_text": "Multiple echogenic foci within the gallbladder with posterior acoustic shadowing, consistent with cholelithiasis."
+  },
+  {
+    "study_id": "RAD002",
+    "ai_report_text": "Cardiothoracic ratio exceeds 0.5, consistent with cardiomegaly. Bilateral interstitial markings may indicate early pulmonary congestion."
+  },
+  {
+    "study_id": "RAD014",
+    "ai_report_text": "Thin lucent line along the right lung apex with absent lung markings laterally, consistent with pneumothorax."
+  }
+]
